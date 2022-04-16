@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Camilo Velásquez ac",
+      "empresa": "Experimentality",
+      "email": "test@test.com",
+      "telefono": "9785426252",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Camilo Velásquez",
+      "empresa": "Experimentality",
+      "email": "test@test.com",
+      "telefono": "9785426252",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Comida",
+      "empresa": "USA",
+      "email": "test@test.com",
+      "telefono": "9785426252",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
